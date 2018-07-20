@@ -37,14 +37,19 @@
 
 /* Begin PBXFileReference section */
 		0088E32ABE8E3D3EA5176BE2E9518652 /* Pods-EmbraceIOIntegrationDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EmbraceIOIntegrationDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
+		016C6CBB226E8C0044727AB01491C824 /* EMBPurchaseFlow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EMBPurchaseFlow.h; path = Embrace.framework/Headers/EMBPurchaseFlow.h; sourceTree = "<group>"; };
 		104A7281ACD62E7F8CF55C9F05706F0A /* Pods_EmbraceIOIntegrationDemoUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_EmbraceIOIntegrationDemoUITests.framework; path = "Pods-EmbraceIOIntegrationDemoUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1273F8D2C0A0E466774CB54D242ADCCD /* Pods-EmbraceIOIntegrationDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-EmbraceIOIntegrationDemo.modulemap"; sourceTree = "<group>"; };
+		1B58693F5CF23EA1C8D5F11310E13A0A /* EMBSubscriptionPurchaseFlow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EMBSubscriptionPurchaseFlow.h; path = Embrace.framework/Headers/EMBSubscriptionPurchaseFlow.h; sourceTree = "<group>"; };
+		2D61BDE18AD62AB8DB28CCE8F493C0B9 /* EMBRegistrationFlow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EMBRegistrationFlow.h; path = Embrace.framework/Headers/EMBRegistrationFlow.h; sourceTree = "<group>"; };
 		2E64B0F7A0BCA667DD9183D03E511188 /* Pods-EmbraceIOIntegrationDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EmbraceIOIntegrationDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		2F2234A295B943AED12BB0C4FD6FDE62 /* Pods-EmbraceIOIntegrationDemoTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-EmbraceIOIntegrationDemoTests.modulemap"; sourceTree = "<group>"; };
 		3D8B1D36AA38987326F92D08C2AAFB6D /* Pods-EmbraceIOIntegrationDemoUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EmbraceIOIntegrationDemoUITests-frameworks.sh"; sourceTree = "<group>"; };
 		41801615B9CB58E236F074E50C50CB97 /* Pods-EmbraceIOIntegrationDemoUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EmbraceIOIntegrationDemoUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		463DF4474B961A601617715DC482C677 /* Pods-EmbraceIOIntegrationDemoUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EmbraceIOIntegrationDemoUITests.release.xcconfig"; sourceTree = "<group>"; };
 		4889784C659A1EF4869484C23778D4B8 /* Pods_EmbraceIOIntegrationDemoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_EmbraceIOIntegrationDemoTests.framework; path = "Pods-EmbraceIOIntegrationDemoTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4CF9BA4BBB874851609725D7171FFCCE /* Embrace.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Embrace.framework; sourceTree = "<group>"; };
+		4E0144F8EAB9284E6A15CC5A1C9E77F6 /* EMBConstants.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EMBConstants.h; path = Embrace.framework/Headers/EMBConstants.h; sourceTree = "<group>"; };
 		53D6EE14F81BAE0DEB01D48D2EC77E55 /* Pods-EmbraceIOIntegrationDemoUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EmbraceIOIntegrationDemoUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		54221984984193BEF0771AC3821EAD6D /* Pods-EmbraceIOIntegrationDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EmbraceIOIntegrationDemo-umbrella.h"; sourceTree = "<group>"; };
 		5484993B789FB81B28A26D9AFDD1DA87 /* Pods-EmbraceIOIntegrationDemoTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EmbraceIOIntegrationDemoTests-umbrella.h"; sourceTree = "<group>"; };
@@ -53,6 +58,7 @@
 		67B4F6FDA8005560261D7F6B04A85BB5 /* Pods-EmbraceIOIntegrationDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EmbraceIOIntegrationDemoTests.release.xcconfig"; sourceTree = "<group>"; };
 		6D77CC95E169CC0A6604F4B4D1005D31 /* Pods-EmbraceIOIntegrationDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-EmbraceIOIntegrationDemo-dummy.m"; sourceTree = "<group>"; };
 		6F4816D9813087D1B11925791790672E /* Pods-EmbraceIOIntegrationDemoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EmbraceIOIntegrationDemoTests.debug.xcconfig"; sourceTree = "<group>"; };
+		896E340A7DCCFEF2691966B031EDEE53 /* EMBCustomFlow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EMBCustomFlow.h; path = Embrace.framework/Headers/EMBCustomFlow.h; sourceTree = "<group>"; };
 		89F77C89AE9D0738EB8581B5C6DDBBFD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9B42E61121FC6DBD3CDEF5C14DEA59D0 /* Pods-EmbraceIOIntegrationDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EmbraceIOIntegrationDemo.release.xcconfig"; sourceTree = "<group>"; };
@@ -62,6 +68,7 @@
 		AEF1F562F4121968195F772E2C01E60F /* Pods-EmbraceIOIntegrationDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EmbraceIOIntegrationDemo-acknowledgements.plist"; sourceTree = "<group>"; };
 		B3E8B9EBF1DEA81653C1E1C5B03655B4 /* Pods-EmbraceIOIntegrationDemoUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EmbraceIOIntegrationDemoUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B60C50DDF9E49161BC69EA1C1A6BB482 /* Pods-EmbraceIOIntegrationDemoTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EmbraceIOIntegrationDemoTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		B984C0B1E965CF24B4FC50B04F1681BC /* Embrace.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Embrace.h; path = Embrace.framework/Headers/Embrace.h; sourceTree = "<group>"; };
 		C72FEFD65F4F26B23A5D577975116AE6 /* Pods-EmbraceIOIntegrationDemoTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EmbraceIOIntegrationDemoTests-resources.sh"; sourceTree = "<group>"; };
 		CE6C465F3598736CF5D6FA07CF9F49DA /* Pods-EmbraceIOIntegrationDemo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EmbraceIOIntegrationDemo-resources.sh"; sourceTree = "<group>"; };
 		D711CF5A0C019642A20C817A5E53CF79 /* Pods-EmbraceIOIntegrationDemoUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EmbraceIOIntegrationDemoUITests-umbrella.h"; sourceTree = "<group>"; };
@@ -109,6 +116,14 @@
 				B3866F8F2164AACD1317A82ACE92AD11 /* Pods-EmbraceIOIntegrationDemoUITests */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		1976D1D5A2A439660ABA31761A06355F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CF018C7CCF7A0CDD0869E025B9C5CD80 /* EmbraceIO */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		1AD630C83D44447BC8BDA8E26094F7CA /* Pods-EmbraceIOIntegrationDemo */ = {
@@ -160,6 +175,7 @@
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				1976D1D5A2A439660ABA31761A06355F /* Pods */,
 				F0DE2F2059330E7FC2295DFA5226639B /* Products */,
 				071A9B08E51E1DF1972974D132114211 /* Targets Support Files */,
 			);
@@ -187,6 +203,29 @@
 			isa = PBXGroup;
 			children = (
 				5E0D919E635D23B70123790B8308F8EF /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CF018C7CCF7A0CDD0869E025B9C5CD80 /* EmbraceIO */ = {
+			isa = PBXGroup;
+			children = (
+				4E0144F8EAB9284E6A15CC5A1C9E77F6 /* EMBConstants.h */,
+				896E340A7DCCFEF2691966B031EDEE53 /* EMBCustomFlow.h */,
+				016C6CBB226E8C0044727AB01491C824 /* EMBPurchaseFlow.h */,
+				B984C0B1E965CF24B4FC50B04F1681BC /* Embrace.h */,
+				2D61BDE18AD62AB8DB28CCE8F493C0B9 /* EMBRegistrationFlow.h */,
+				1B58693F5CF23EA1C8D5F11310E13A0A /* EMBSubscriptionPurchaseFlow.h */,
+				DD28CEADAC46DFD15F7A49AC7E480D25 /* Frameworks */,
+			);
+			name = EmbraceIO;
+			path = EmbraceIO;
+			sourceTree = "<group>";
+		};
+		DD28CEADAC46DFD15F7A49AC7E480D25 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4CF9BA4BBB874851609725D7171FFCCE /* Embrace.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

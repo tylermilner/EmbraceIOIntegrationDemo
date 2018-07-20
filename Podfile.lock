@@ -1,3 +1,16 @@
-PODFILE CHECKSUM: 27c265988cde6eba48881da8cc4cd52dd93b01f8
+PODS:
+  - EmbraceIO (2.9.9)
+
+DEPENDENCIES:
+  - EmbraceIO
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - EmbraceIO
+
+SPEC CHECKSUMS:
+  EmbraceIO: 6bc54c341025e804112c2e89524489a2c085f35d
+
+PODFILE CHECKSUM: d3cddc0fa9a8b419afb4905fe39c2b22ed9fddb7
 
 COCOAPODS: 1.5.3
