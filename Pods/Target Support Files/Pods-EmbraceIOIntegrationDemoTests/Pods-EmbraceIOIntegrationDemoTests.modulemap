@@ -1,0 +1,6 @@
+framework module Pods_EmbraceIOIntegrationDemoTests {
+  umbrella header "Pods-EmbraceIOIntegrationDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
