@@ -16,6 +16,7 @@ target 'EmbraceIOIntegrationDemo' do
   target 'EmbraceIOIntegrationDemoUITests' do
     inherit! :search_paths
     # Pods for testing
+    pod 'EmbraceIO'
   end
 
 end
